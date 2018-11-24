@@ -1,0 +1,6 @@
+{
+    "variants": {
+        "explode=false": { "model": "sbiggertnt:explosion_block" },
+        "explode=true": { "model" : "sbiggertnt:explosion_block" }
+    }
+}

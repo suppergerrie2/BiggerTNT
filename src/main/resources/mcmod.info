@@ -1,0 +1,16 @@
+[
+{
+  "modid": "sbiggertnt",
+  "name": "Bigger TNT Mod",
+  "description": "Adds bigger TNT explosions to minecraft",
+  "version": "0.1",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["suppergerrie2"],
+  "credits": "Suppergerrie2's tutorial and the internet!",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
